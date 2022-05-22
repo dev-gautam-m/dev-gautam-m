@@ -11,6 +11,7 @@ this is about me
 <p>🌱 I'm currently learning AI</p>
 <p>💬 Ask me about Front End Development</p> -->
 <p>📫 How to reach me? dev@gautammenaria.com</p>
+<p>more about me: <a href="http://gautammenaria.com/">Website</a></p>
 <p>I regularly write articles on <a href="https://www.linkedin.com/">Linkedin</a></p>
 <p>All of my projects are available at <a href="http://www.rc-educate.com/">Blog</a></p>
 <p>⚡ Fun Fact: I Love Memes</p>
