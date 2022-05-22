@@ -40,7 +40,7 @@ this is about me
 <a href="https://www.youtube.com/c/youtube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://medium.com/@medium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
+<!-- 
 ## 🌟 Github Badges
 <p>
 </p>
@@ -50,4 +50,4 @@ this is about me
 <p><img src="https://github-profile-trophy.vercel.app/?username=gmenariya">
 </p>
 
-## 📊 Github Status
+## 📊 Github Status -->
