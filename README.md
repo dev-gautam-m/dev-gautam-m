@@ -1,15 +1,15 @@
 # Hi there 👋, My name is Gautam Menariya
 
-<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQ288zSmsJaqohmbM9Zfng0LNoS7P8mSA8Q&usqp=CAU" alt="my banner">
+<img width="100%" src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5c41dd32f1bd61547820338.png" alt="my banner">
 
 this is about me
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on project 1</p>
-<p>👯 I want to collaborate on project 3</p>
+<p>🔭 I'm currently creating NFT Marketplace with web3.js</p>
+<!-- <p>👯 I want to collaborate on project 3</p>
 <p>🙏 I'm looking for help with project 2</p>
 <p>🌱 I'm currently learning AI</p>
-<p>💬 Ask me about Front End Development</p>
+<p>💬 Ask me about Front End Development</p> -->
 <p>📫 How to reach me? dev@gautammenaria.com</p>
 <p>I regularly write articles on <a href="https://www.linkedin.com/">Linkedin</a></p>
 <p>All of my projects are available at <a href="http://www.rc-educate.com/">Blog</a></p>
